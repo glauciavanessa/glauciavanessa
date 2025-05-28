@@ -66,13 +66,15 @@ Compartilhe conhecimento em Data Science com estilo geek e 🐾 ronronadas de in
 Você é um Sith, Jedi ou Gato? Podemos fazer negócio.
 
 ---
+
 <div align="center">
   
 Já dizia mestre Yoda!
 
 Faça ou não faça, tentativa não há!
 
-![gato com saber de luz](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA0OXJramF3Ynlzcm90ZDVwaHpwOHBm bTdhOW5zcmhqeTd1cXQzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q1MeAPDDMb43K/giphy.gif)
+
+![gato com saber de luz](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA0OXJramF3Ynlzcm90ZDVwaHpwOHBmbTdhOW5zcmhqeTd1cXQzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q1MeAPDDMb43K/giphy.gif)
 
 
 </div>
